@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">List</string>
+    <string name="error_positive_integer" translatable="false">Vui lòng nhập số nguyên dương</string>
+    <string name="error_invalid_number" translatable="false">Số không hợp lệ. Vui lòng nhập số nguyên dương</string>
+    <string name="error_select_number_type" translatable="false">Vui lòng chọn một loại số</string>
+    <string name="button_show" translatable="false">Show</string>
+</resources>
